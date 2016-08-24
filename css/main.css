@@ -26,6 +26,9 @@ nav {
 	-moz-transition:opacity 0.5s;
 
 }
+.lista:hover {
+	font-weight: bold;
+}
 button {
 	border-radius: 25px;
 	border-color: transparent;
@@ -103,4 +106,7 @@ section i {
 	.lista {
 		color: white !important;
 	}
+}
+a:hover {
+	text-decoration: none !important;
 }
